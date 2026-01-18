@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor / backup files
+*.save
+*.bak
+*~
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
